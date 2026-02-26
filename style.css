@@ -1,0 +1,7 @@
+footer {
+margin-top: 50px;
+text-align: center;
+color: blue;
+-webkit-text-stroke: 1px rgb(rgb(255, 15, 147), rgb(47, 15, 190), blue);
+padding: 20px;
+}
